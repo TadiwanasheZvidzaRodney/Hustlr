@@ -26,3 +26,12 @@ Given the initial stage and the need for rapid development, a monolithic archite
 * **Frontend:** React or Vue.js (for interactive user interface)
 * **WhatsApp Integration:** Twilio or Vonage (for messaging API)
 * **Deployment:** AWS, GCP, or Azure (for cloud infrastructure)
+
+### Components
+
+1. **Database:** Stores user data, job listings, messages, payment information, and system configurations.
+2. **API Layer:** Handles requests from the frontend and WhatsApp chatbot.
+3. **Business Logic:** Contains core application logic for user management, job matching, payments, and messaging.
+4. **Frontend:** Provides the user interface for taskers and clients.
+5. **Admin Panel:** A separate interface for administrative tasks.
+6. **WhatsApp Integration:** Handles incoming and outgoing messages, integrates with the platform's API.
