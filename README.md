@@ -1,6 +1,6 @@
 # Hustlr
 
-## Understanding the Core Functionalities
+## Core Functionalities
 
 * **User Management:** Handling registration, login, profile updates for both taskers and clients.
 * **Task/Gig Management:** Creating, updating, and managing tasks or gigs.
