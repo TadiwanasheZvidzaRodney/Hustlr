@@ -1,3 +1,5 @@
+
+
 # Hustlr
 
 ## Core Functionalities
@@ -11,3 +13,7 @@
 * **Ratings and Reviews:** Allowing users to rate and review each other.
 * **Admin Management:** Managing platform settings, user accounts, and dispute resolution.
 * **WhatsApp Integration:** Provides a chatbot interface for users to interact with the platform.
+
+## Proposed Monolithic Architecture
+
+Given the initial stage and the need for rapid development, a monolithic architecture is suitable. This means all components of the application are combined into a single unit. However, we'll incorporate design choices to accommodate future scaling.
