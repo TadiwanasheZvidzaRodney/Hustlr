@@ -2,9 +2,9 @@
 
 ## Understanding the Core Functionalities
 
-* **User Management:** Handling registration, login, profile updates for both ta**skers and clients.
+* **User Management:** Handling registration, login, profile updates for both taskers and clients.
 * **Task/Gig Management:** Creating, updating, and managing tasks or gigs.
-* Matching:** Matching taskers with clients based on skills, availability, and lo**cation.
+* **Matching:** Matching taskers with clients based on skills, availability, and location.
 * **Payment Processing:** Handling transactions between clients and taskers.
 * **Messaging:** Enabling communication between clients and taskers.
 * **Ratings and Reviews:** Allowing users to rate and review each other.
