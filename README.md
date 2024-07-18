@@ -35,3 +35,13 @@ Given the initial stage and the need for rapid development, a monolithic archite
 4. **Frontend:** Provides the user interface for taskers and clients.
 5. **Admin Panel:** A separate interface for administrative tasks.
 6. **WhatsApp Integration:** Handles incoming and outgoing messages, integrates with the platform's API.
+
+### Scalability Considerations
+
+Although monolithic, we can implement strategies to prepare for future growth:
+
+* **Vertical Scaling:** Increase the resources (CPU, memory, storage) of the server to handle increased load.
+* **Load Balancing:** Distribute incoming traffic across multiple instances of the application to improve performance.
+* **Database Optimization:** Implement indexing, query optimization, and caching to enhance database performance.
+* **Code Optimization:** Write efficient code and use profiling tools to identify performance bottlenecks.
+* **Microservices Readiness:** Design the application with modularity in mind, making it easier to extract components into separate services later.
